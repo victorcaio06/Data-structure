@@ -1,0 +1,1 @@
+- Aqui terá todas as questões resolvidades de estrutura de dados 2021.2
